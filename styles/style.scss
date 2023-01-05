@@ -4,7 +4,7 @@ body {
   font-family: sans-serif;
 }
 .wrapper {
-  width: 1440px;
+  width: 1140px;
   background: linear-gradient(79.63deg, #5b52a3 1.08%, #40b8ea 100%);
   border-radius: 36px;
   margin: 0 auto;
@@ -13,9 +13,10 @@ body {
   padding-left: 150px;
 }
 .container {
-  max-width: 1440px;
+  max-width: 1140px;
   width: 100%;
   margin: 0 auto;
+  box-sizing: border-box;
   padding: 0 260px;
 }
 .wrapper__suptitle,
